@@ -1,0 +1,50 @@
+a:link {
+    color: rgb(69, 187, 1);
+    /* background-color: #ff3333; */
+}
+
+#cat_eating {
+    color: black;
+    margin-left: 40px;
+}
+
+.image-info {
+    margin-top: -18px;
+    margin-left: 40px;
+
+}
+
+.ordered_list {
+    margin-top: -2px;
+}
+
+._cats {
+    margin-left: 40px;
+}
+
+#sub_title_5cat {
+    margin-top: -2px;
+}
+
+
+
+fieldset {
+    border: 1px solid;
+}
+
+.form2 {
+    margin-top: 5px;
+}
+
+#input_url {
+    color: rgb(185, 183, 183);
+}
+
+.submit {
+    margin-top: 3px;
+    margin-left: 2px;
+}
+
+#input_url:clear{
+    color: black;
+}
